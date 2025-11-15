@@ -25,8 +25,7 @@ npm یا yarn
 
 نصب و اجرا
 ریپازیتوری را کلون کنید:
-
-git clone https://github.com/masicoder/snapp.project-clone.git
+git clone https://github.com/masicoder/snapp.project.git
 cd snapp-clone
 
 وابستگی‌های پروژه را نصب کنید:
